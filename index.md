@@ -7,4 +7,5 @@
 # In Class Exercises
 
 [Week 1 Exercises](Exercises.html)
+[Week 5 Exercises](Excerises-Week5.html)
 
