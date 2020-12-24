@@ -8,6 +8,10 @@
 
 [Electricity Market Report](Electricity.html)
 
+## Assignment 3
+
+[Diamonds Price Analysis](assignment.html)
+
 # In Class Exercises
 
 [Week 1 Exercises](Exercises.html)
